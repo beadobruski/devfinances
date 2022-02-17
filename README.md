@@ -1,4 +1,4 @@
-# dev-finances
+# dev.finances$
 
 ## Descrição do Projeto
 
